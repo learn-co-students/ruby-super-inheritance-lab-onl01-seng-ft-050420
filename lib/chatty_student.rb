@@ -9,3 +9,5 @@ class ChattyStudent < Student
     10.times {super}
   end
 end
+
+#
